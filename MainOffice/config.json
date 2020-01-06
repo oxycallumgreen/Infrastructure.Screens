@@ -1,0 +1,28 @@
+{
+  "settingsReloadIntervalMinutes": 600,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://app.powerbi.com/reportEmbed?reportId=933f10c7-0b9f-47a4-b336-7b3623f62bbc&appId=6cdde84f-9210-4093-a73f-297ffcee329c&autoAuth=true&ctid=7cf39974-6f65-4373-9505-4cfec29fe769&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVrLXNvdXRoLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9&pageName=ReportSection2e1c2f76d24db5c72475",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 43200
+    },
+    {
+      "url": "https://levels-uk.oxygen-systems.com/filewindows",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 3600
+    },
+    {
+      "url": "https://app.powerbi.com/reportEmbed?reportId=c0b722a0-c465-45dd-9f0a-d2827620c8d5&appId=6cdde84f-9210-4093-a73f-297ffcee329c&autoAuth=true&ctid=7cf39974-6f65-4373-9505-4cfec29fe769&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVrLXNvdXRoLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0In0%3D",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 43200
+    },
+    {
+      "url": "https://monitoring.oxygen-finance.com:1720/public/mapshow.htm?id=2372&mapid=C51EF88E-0738-4708-9D29-D26CB4BF26F6",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 21600
+    }
+  ]
+}
